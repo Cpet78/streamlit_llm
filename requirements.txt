@@ -10,7 +10,7 @@ langchain_text_splitters==0.2.2
 mage_ai==0.9.72
 numpy==1.24.3
 pandas==2.2.2
-Pillow==10.4.0
+Pillow==10.3.0
 PyPDF2==3.0.1
 python_docx==1.1.2
 requests==2.31.0
