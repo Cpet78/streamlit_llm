@@ -8,12 +8,12 @@ langchain_groq==0.1.6
 langchain_huggingface==0.0.3
 langchain_text_splitters==0.2.2
 mage_ai==0.9.72
-numpy==1.21.2
+numpy==1.24.3
 pandas==2.2.2
 Pillow==10.4.0
 PyPDF2==3.0.1
 python_docx==1.1.2
-Requests==2.32.3
+requests==2.31.0
 scikit_learn==1.4.2
 selenium==4.23.1
 streamlit==1.36.0
